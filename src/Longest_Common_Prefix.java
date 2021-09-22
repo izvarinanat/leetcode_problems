@@ -34,5 +34,3 @@ public class Longest_Common_Prefix {
         }
     }
 }
-
-//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
